@@ -1,0 +1,6 @@
+{
+  "name": "Kiri Atelier POS",
+  "description": "In-store skincare point-of-sale, FEFO batch inventory, loyalty, shift cash control, and bilingual USD/KHR billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
